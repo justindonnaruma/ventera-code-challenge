@@ -8,7 +8,7 @@ Testing for this code was a manual check of the output file to make sure it matc
 
 To run:
 ``` bash
-git pull https://github.com/justindonnaruma/ventera-code-challenge.git
+git clone https://github.com/justindonnaruma/ventera-code-challenge.git
 cd ventera-code-challenge
 node transform.js
 ```
