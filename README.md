@@ -1,4 +1,6 @@
 # Ventera Code Challenge Notes
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 This code has been tested with NodeJS v8.12.0
 This code has no third-party dependencies.
 

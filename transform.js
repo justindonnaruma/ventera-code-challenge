@@ -7,11 +7,11 @@ console.log('###### Parsing data...')
 const data = JSON.parse(rawData)
 
 console.log('###### Mapping data...')
-const transformedData = data.map(obj =>{
-    obj.customerId = obj.customer.id
-    delete(obj.customer)
-    return obj
-});
+const transformedData = data.map(obj => {
+  obj.customerId = obj.customer.id
+  delete (obj.customer)
+  return obj
+})
 
 console.log('###### Writting data to file...')
 const rawTransformedData = JSON.stringify(transformedData)
