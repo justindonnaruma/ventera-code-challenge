@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Data transform code challenge for Ventara job interview.",
   "main": "transform.js",
-  "scripts": {
-    "test": "mocha tests/transform.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/justindonnaruma/ventera-code-challenge.git"
